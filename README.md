@@ -1,6 +1,24 @@
 # Vendor Performance Analysis
+## 📌 Business Problem Statement
+Effective inventory and sales management are critical for optimizing profitability in the retail and wholesale industry. Companies must ensure they do not incur losses due to inefficient pricing, poor inventory turnover, or over-dependency on specific vendors.
+
+### 🎯 Key Objectives:
+- **Underperforming Brands:** Identify brands needing promotional or pricing adjustments.
+- **Top Vendor Contributions:** Determine top vendors driving sales and gross profit margins.
+- **Bulk Purchasing Impact:** Analyze the effect of bulk volume purchasing on overall unit costs.
+- **Inventory Turnover:** Assess inventory turnover rates to reduce holding costs and improve efficiency.
+- **Profitability Variance:** Investigate profit margins between high-performing and low-performing vendors.
 
 ![Dashboard Preview](dashboard_preview.png)
+
+## Final Recommendations
+
+- Re-evaluate pricing for low-sales, high-margin brands to boost sales volume without sacrificing profitability.
+- Diversify vendor partnerships to reduce dependency on a few suppliers and mitigate supply chain risks.
+- Leverage bulk purchasing advantages to maintain competitive pricing while optimizing inventory management.
+- Optimize slow-moving inventory by adjusting purchase quantities, launching clearance sales, or revising storage strategies.
+- Enhance marketing and distribution strategies for low-performing vendors to drive higher sales volumes without compromising profit margins.
+- By implementing these recommendations, the company can achieve sustainable profitability, mitigate risks, and enhance overall operational efficiency.
 
 ## 📌 Project Overview
 This project presents an end-to-end data analytics solution for analyzing vendor sales, procurement costs, profit margins, and unsold capital risk. By integrating **Python**, **SQL (PostgreSQL)**, and **Power BI**, it empowers business stakeholders to identify high-performing vendors, monitor brand distribution, and eliminate inefficiencies in inventory management.
