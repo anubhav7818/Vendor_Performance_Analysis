@@ -1,0 +1,40 @@
+2026-09-15 14:54:06,514 - INFO - Ingesting begin_inventory.csv into database table: begin_inventory
+2026-09-15 14:54:11,065 - INFO - Ingesting end_inventory.csv into database table: end_inventory
+2026-09-15 14:54:22,978 - INFO - Ingesting purchases.csv into database table: purchases
+2026-09-15 14:55:42,953 - INFO - Ingesting purchase_prices.csv into database table: purchase_prices
+2026-09-15 14:56:18,197 - INFO - Ingesting sales.csv into database table: sales
+2026-09-15 15:11:21,092 - INFO - Ingesting begin_inventory.csv into database table: begin_inventory
+2026-09-15 15:11:23,785 - INFO - Ingesting end_inventory.csv into database table: end_inventory
+2026-09-15 15:11:32,139 - INFO - Ingesting purchases.csv into database table: purchases
+2026-09-15 15:17:30,925 - INFO - Ingesting begin_inventory.csv into database table: begin_inventory
+2026-09-15 15:17:33,784 - INFO - Ingesting end_inventory.csv into database table: end_inventory
+2026-09-15 15:36:34,823 - ERROR - No such comm target registered: jupyter.widget.control
+2026-09-15 15:36:34,826 - WARNING - No such comm: 42329f02-2910-4c96-8222-0c0b27b82ba3
+2026-09-15 15:36:34,826 - DEBUG - Current comms: []
+2026-09-15 15:49:22,915 - ERROR - No such comm target registered: jupyter.widget.control
+2026-09-15 15:49:22,919 - WARNING - No such comm: 6fe9dad1-97fd-4553-add4-9c724c85ba8a
+2026-09-15 15:49:22,920 - DEBUG - Current comms: []
+2026-09-16 11:05:07,428 - INFO - Ingesting begin_inventory.csv into database table: begin_inventory
+2026-09-16 11:05:10,129 - INFO - Ingesting end_inventory.csv into database table: end_inventory
+2026-09-16 11:05:13,317 - INFO - Ingesting purchases.csv into database table: purchases
+2026-09-16 11:06:06,103 - INFO - Ingesting purchase_prices.csv into database table: purchase_prices
+2026-09-16 11:06:06,404 - INFO - Ingesting sales.csv into database table: sales
+2026-09-16 11:10:23,722 - INFO - Ingesting vendor_invoice.csv into database table: vendor_invoice
+2026-09-16 11:10:23,836 - INFO - -------------------Ingestion Complete-------------------
+2026-09-16 11:10:23,836 - INFO - 
+Total Time Taken: 5.27 minutes
+2026-09-16 11:59:17,910 - ERROR - No such comm target registered: jupyter.widget.control
+2026-09-16 11:59:17,920 - WARNING - No such comm: f838475c-9492-45d9-9f53-d45ea36cd670
+2026-09-16 11:59:17,921 - DEBUG - Current comms: []
+2026-09-16 12:13:30,089 - ERROR - No such comm target registered: jupyter.widget.control
+2026-09-16 12:13:30,094 - WARNING - No such comm: 84531450-916d-4812-a5ee-e91d42d06877
+2026-09-16 12:13:30,094 - DEBUG - Current comms: []
+2026-09-16 13:38:24,006 - ERROR - No such comm target registered: jupyter.widget.control
+2026-09-16 13:38:24,012 - WARNING - No such comm: 1fed76d3-60cc-4669-9878-411a446f5358
+2026-09-16 13:38:24,013 - DEBUG - Current comms: []
+2026-09-16 13:54:49,559 - ERROR - No such comm target registered: jupyter.widget.control
+2026-09-16 13:54:49,565 - WARNING - No such comm: 169695cf-c758-4d8f-9f50-a0d58300a329
+2026-09-16 13:54:49,565 - DEBUG - Current comms: []
+2026-09-16 14:22:50,125 - ERROR - No such comm target registered: jupyter.widget.control
+2026-09-16 14:22:50,130 - WARNING - No such comm: fd7290d5-9a84-4abe-a609-909dbc4f8798
+2026-09-16 14:22:50,130 - DEBUG - Current comms: []
